@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("35")
 	fmt.Println("hot.fix")
 	fmt.Println("zzdhotfox")
+	fmt.Println("push test")
 }
