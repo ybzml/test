@@ -12,5 +12,5 @@ func main() {
 	fmt.Println("hot.fix")
 	fmt.Println("zzdhotfox")
 	fmt.Println("push test")
-	fmt.println("pull test")
+	fmt.Println("pull test")
 }
